@@ -21,7 +21,7 @@ cd /{workspace}/src
 pip install -r requirements_pkg.txt
 ```
 
-Make sure to have these packages installed in your ROS 2 environment before using `topic_checker`.
+Make sure to have these packages installed in your ROS 2 environment before using `jira_slack_Auto`.
 
 ## Installation
 
