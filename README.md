@@ -2,13 +2,13 @@
 This package was developed by mwcha because configure about autonomous system with API
 
 ### STEP 1
-a
+TBD
 ### STEP 2
-b
+TBD
 ### STEP 3
 Run it
 ### Tip
-abc
+TBD
 
 ## Dependencies
 
